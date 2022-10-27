@@ -10,13 +10,13 @@
 
 -   🌱 I’m currently learning **React JS, Node JS, as well as brushing up my Data Structures and Algorithms (DSA)**
 
--   👯 I’m currently collaborating on **Channelier.com - An FMCG Supply Chain Management ERP by Arachnomesh Technologies Pvt. Ltd.**
+-   👯 I’m currently collaborating on **Channelier.com - An FMCG ERP by Arachnomesh Technologies Pvt. Ltd.**
 
 -   👨‍💻 All of my projects are available at **[GitHub](https://github.com/s-arslaan)**
 
 -   📫 How to reach me **thearsrock1234@gmail.com**
 
--   📄 Know about my experiences **[Resume](https://s-arslaan.github.io/arslaan.tech/Arslaan_Shaikh_resume.pdf)**
+-   📄 Know More: **[Resume](https://s-arslaan.github.io/arslaan.tech/Arslaan_Shaikh_resume.pdf)**
 
 <h3 align="left">About Me</h3>
 
@@ -26,12 +26,12 @@ Developer dev = new Developer("Arslaan Shaikh");
 
 const Arslaan = {
   pronouns: ['He', 'Him'],
-  status: 'Student', 'SDE Intern at Arachnomesh Technologies',
+  status: 'Student', 'SDE at Arachnomesh Technologies',
   technologies: {
-    frontEnd: [ 'HTML', 'CSS', 'SAAS', 'Javascript', 'BootStrap', 'React' ],
+    frontEnd: [ 'HTML', 'CSS', 'JavaScript', 'Bootstrap', 'React' ],
     backEnd: [ 'PHP','Codeigniter','MySQL', 'NodeJS', 'Express', 'Mongodb' ]
   },
-  askMeAbout: [ 'frontEnd-Techs', 'Coding', 'Computer Engineering', 'Gate CSE' ],
+  askMeAbout: [ 'BackEnd-Tech', 'MVC', 'Problem Solving' ],
   learning: [ 'DSA', 'React Js', 'Node JS' ]
 };
 
@@ -45,7 +45,7 @@ else{
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arslaan-shaikh-9659a6192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arslaan-shaikh-9659a6192" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&layout=compact" alt="s-arslaan" /></p>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arslaan Shaikh</h1>
 
-<h4 align="center">Passionate about the entire software development process from Design to deployment as well as Solving Consumer Problems <br>Developing for 2+ years on frameworks like CodeIgniter & OpenCart with an intermediate experience on MERN application development.</h4>
+<h4 align="center">Passionate about the entire software development process from Design to deployment as well as Resolving Daily Consumer Problems.<br>Developing for 2+ years on frameworks like CodeIgniter & OpenCart with an intermediate experience on MERN application development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>
 

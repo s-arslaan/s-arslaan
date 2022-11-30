@@ -54,7 +54,10 @@ else{
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=radical" alt="s-arslaan" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=horizon" alt="s-arslaan" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=horizon" alt="s-arslaan" />&emsp;
+  <a href="https://app.daily.dev/s_arslaan"><img src="https://api.daily.dev/devcards/587b519bd3ea42cc863b26695a1f8224.png" width="400" alt="Arslaan's Dev Card"/></a>
+</p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>

@@ -47,12 +47,14 @@ else{
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&&theme=dark" alt="s-arslaan" /></p>
-<!-- &layout=compact -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&theme=radical&layout=compact" alt="s-arslaan" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=dark" alt="s-arslaan" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&" alt="s-arslaan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=horizon" alt="s-arslaan" /></p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>
 

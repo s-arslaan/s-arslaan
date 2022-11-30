@@ -2,9 +2,7 @@
 
 <h4 align="center">Passionate about the entire software development process from Design to deployment as well as Resolving Daily Consumer Problems.<br>Developing for 2+ years on frameworks like CodeIgniter & OpenCart with an intermediate experience on MERN application development.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-arslaan&theme=darkhub" alt="s-arslaan" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-arslaan&theme=darkhub" alt="s-arslaan" /></a> </p> -->
 
 -   🔭 I’m currently working in **[Arachnomesh Technologies](https://www.linkedin.com/company/arachnomesh/mycompany/)** as a **[Software Engineer](https://www.linkedin.com/in/arslaan-shaikh-9659a6192/)**
 
@@ -48,11 +46,16 @@ else{
 <a href="https://www.linkedin.com/in/arslaan-shaikh-9659a6192" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&layout=compact" alt="s-arslaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en" alt="s-arslaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&&theme=dark" alt="s-arslaan" /></p>
+<!-- &layout=compact -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=dark" alt="s-arslaan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&" alt="s-arslaan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>
+
 
 <!--
 - 🔭 I’m currently working on ...

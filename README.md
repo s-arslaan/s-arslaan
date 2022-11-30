@@ -56,7 +56,7 @@ else{
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=horizon" alt="s-arslaan" />&emsp;
-  <a href="https://app.daily.dev/s_arslaan"><img src="https://api.daily.dev/devcards/587b519bd3ea42cc863b26695a1f8224.png" width="400" alt="Arslaan's Dev Card"/></a>
+  <!-- <a href="https://app.daily.dev/s_arslaan"><img src="https://api.daily.dev/devcards/587b519bd3ea42cc863b26695a1f8224.png" width="400" alt="Arslaan's Dev Card"/></a> -->
 </p>
 <br>
 

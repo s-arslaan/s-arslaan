@@ -48,10 +48,10 @@ else{
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&theme=radical&layout=compact" alt="s-arslaan" /></p>
-<br><br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&theme=radical&layout=compact" alt="s-arslaan" /></p> -->
+<!-- <br><br> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=radical" alt="s-arslaan" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=radical" alt="s-arslaan" /></p> -->
 <br>
 
 <p>

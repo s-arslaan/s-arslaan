@@ -44,7 +44,7 @@ else{
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arslaan-shaikh-9659a6192" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arslaanshaikh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
 </p>
 <br>
 

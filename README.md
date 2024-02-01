@@ -12,7 +12,7 @@
 
 -   👨‍💻 All of my projects are available at **[GitHub](https://github.com/s-arslaan)**
 
--   📫 How to reach me **thearsrock1234@gmail.com**
+-   📫 How to reach me **shaikharslaan1234@gmail.com**
 
 -   📄 Know More: **[Resume](https://s-arslaan.github.io/arslaan.tech/Arslaan_Shaikh_resume.pdf)**
 

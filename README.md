@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arslaanshaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslaanshaikh)
 [![Lingocare](https://img.shields.io/badge/Building-Lingocare.ai-00C2A8?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.linkedin.com/company/lingocare/)
-[![Email](https://img.shields.io/badge/Email-shaikharslaan1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikharslaan1234@gmail.com)
+[![Email](https://img.shields.io/badge/Email-as%40lingo.care-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as@lingo.care)
 [![Location](https://img.shields.io/badge/Based%20in-Germany%20🇩🇪-333333?style=for-the-badge)](#)
 
 </div>
@@ -52,7 +52,7 @@ If you're building something that genuinely changes how people learn or work —
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=00C2A8&fire=0A66C2&currStreakLabel=6C63FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-arslaan&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C2A8&point=0A66C2" width="98%"/>
+<img src="https://ghchart.rshah.org/6C63FF/s-arslaan" width="98%"/>
 
 </div>
 

@@ -1,73 +1,63 @@
-<h1 align="center">Hi 👋, I'm Arslaan Shaikh</h1>
+<div align="center">
 
-<h4 align="center">Passionate about the entire software development process from Design to deployment as well as Resolving Daily Consumer Problems.<br>Developing for 2+ years on frameworks like CodeIgniter & OpenCart with an intermediate experience on MERN application development.</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:0A66C2,100:00C2A8&height=220&section=header&text=Hi%2C%20I'm%20Arslaan%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Lead%20%40%20Lingocare.ai&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-arslaan&theme=darkhub" alt="s-arslaan" /></a> </p> -->
-
--   🔭 I’m currently working in **[Arachnomesh Technologies](https://www.linkedin.com/company/arachnomesh/mycompany/)** as a **[Software Engineer](https://www.linkedin.com/in/arslaan-shaikh-9659a6192/)**
-
--   🌱 I’m currently learning **React JS, Node JS, as well as brushing up my Data Structures and Algorithms (DSA)**
-
--   👯 I’m currently collaborating on **Channelier.com - An FMCG ERP by Arachnomesh Technologies Pvt. Ltd.**
-
--   👨‍💻 All of my projects are available at **[GitHub](https://github.com/s-arslaan)**
-
--   📫 How to reach me **shaikharslaan1234@gmail.com**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Putting+AI+to+real+use+%F0%9F%A4%96;Not+chasing+hype%2C+shipping+product+%F0%9F%9A%80;Building+Lingocare.ai+%F0%9F%A9%BA;Turning+%22AI+can+do+that%3F%22+into+%22it+just+did%22" />
+</a>
 
 <br>
-<h3 align="left">About Me</h3>
 
-```javascript
-document.write("Hi 👋, I'm Arslaan Shaikh");
-Developer dev = new Developer("Arslaan Shaikh");
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslaanshaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslaanshaikh)
+[![Lingocare](https://img.shields.io/badge/Building-Lingocare.ai-00C2A8?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.linkedin.com/company/lingocare/)
+[![Email](https://img.shields.io/badge/Email-shaikharslaan1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikharslaan1234@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Germany%20🇩🇪-333333?style=for-the-badge)](#)
 
-const Arslaan = {
-  pronouns: ['He', 'Him'],
-  status: 'Student', 'SDE at Arachnomesh Technologies',
-  technologies: {
-    frontEnd: [ 'HTML', 'CSS', 'JavaScript', 'Bootstrap', 'React' ],
-    backEnd: [ 'PHP','Codeigniter','MySQL', 'NodeJS', 'Express', 'Mongodb' ]
-  },
-  askMeAbout: [ 'BackEnd-Tech', 'MVC', 'Problem Solving' ],
-  learning: [ 'DSA', 'React Js', 'Node JS' ]
-};
+</div>
 
-if (succeed == false){
-  tryAgain();
-}
-else{
-  party();
-}
-```
+## 🧠 About Me
 
-<h3 align="left">Connect with me at:</h3>
+I got into tech because I liked solving puzzles — turns out the most interesting puzzle right now is **making AI actually useful**, not just impressive in a demo.
+
+No hype, no buzzword soup. Just figuring out where AI genuinely removes friction for real people, then shipping it.
+
+## 🚀 What I'm Building
+
+Currently **Product Lead at [Lingocare.ai](https://www.linkedin.com/company/lingocare/)** — an AI-powered healthcare education platform.
+
+- 🩺 Connecting **nursing students, teachers, and schools** into one ecosystem instead of five disconnected tools
+- 🤖 Weaving AI into the product where it actually helps learners and educators — not bolted on for a headline
+- 🎯 Owning the roadmap end-to-end: strategy → UX → shipped feature → real user feedback
+- 🏗️ Building the plane while flying it — early stage, high ambiguity, exactly how I like it
+- 👩‍💻 Comes from an engineering background, so I still speak fluent "why is this API timing out"
+
+If you're building something that genuinely changes how people learn or work — I want to hear about it. Let's connect on [LinkedIn](https://www.linkedin.com/in/arslaanshaikh) 👋
+
+## 🛠️ Tech I Vibe With
+
 <p align="left">
-<a href="https://www.linkedin.com/in/arslaanshaikh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslaan-linkedin" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,php,mysql,html,css,git,github,figma&theme=dark" />
 </p>
-<br>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-arslaan&show_icons=true&locale=en&theme=radical&layout=compact" alt="s-arslaan" /></p> -->
-<!-- <br><br> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-arslaan&show_icons=true&locale=en&theme=radical" alt="s-arslaan" /></p> -->
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=horizon" alt="s-arslaan" />&emsp;
-  <!-- <a href="https://app.daily.dev/s_arslaan"><img src="https://api.daily.dev/devcards/587b519bd3ea42cc863b26695a1f8224.png" width="400" alt="Arslaan's Dev Card"/></a> -->
+<p align="left">
+  <img src="https://img.shields.io/badge/AI--Powered%20Product%20Strategy-6C63FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Development-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/0--to--1%20Building-00C2A8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Functional%20Leadership-6C63FF?style=flat-square&logoColor=white" />
 </p>
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="s-arslaan" /> </p>
+## 📊 GitHub Vibes
 
+<div align="center">
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-arslaan&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=00C2A8&fire=0A66C2&currStreakLabel=6C63FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-arslaan&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C2A8&point=0A66C2" width="98%"/>
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=s-arslaan&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="s-arslaan" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,50:0A66C2,100:6C63FF&height=100&section=footer" width="100%"/>

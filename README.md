@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:0A66C2,100:00C2A8&height=220&section=header&text=Hi%2C%20I'm%20Arslaan%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Lead%20%40%20Lingocare.ai&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Putting+AI+to+real+use+%F0%9F%A4%96;Not+chasing+hype%2C+shipping+product+%F0%9F%9A%80;Building+Lingocare.ai+%F0%9F%A9%BA;Turning+%22AI+can+do+that%3F%22+into+%22it+just+did%22" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Putting+AI+to+real+use+%F0%9F%A4%96;Not+chasing+hype%2C+shipping+product+%F0%9F%9A%80;Building+Lingocare.ai+%F0%9F%A9%BA;Turning+%22can+AI+do+that%3F%22+into+%22yes%22+%E2%9C%A8" />
 </a>
 
 <br>

@@ -14,8 +14,6 @@
 
 -   📫 How to reach me **shaikharslaan1234@gmail.com**
 
--   📄 Know More: **[Resume](https://s-arslaan.github.io/arslaan.tech/Arslaan_Shaikh_resume.pdf)**
-
 <br>
 <h3 align="left">About Me</h3>
 
